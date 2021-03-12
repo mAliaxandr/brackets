@@ -24,5 +24,6 @@ module.exports = function check(str, bracketsConfig) {
                 return checkBrackets();
             }
     }
+    
    return result;
 }
